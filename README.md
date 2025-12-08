@@ -33,7 +33,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 
 <!--Angular-->
-<img style="margin: 10px" src="https://seeklogo.com/images/A/angular-logo-62C7D8C9E3-seeklogo.com.png" alt="Angular" height="50" />
+<img style="margin: 10px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="50" />
 
 </div>
 
@@ -82,7 +82,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
 
 <!--Postman-->
-<img style="margin: 10px" src="https://www.freelogovectors.net/wp-content/uploads/2023/04/postman-logo-freelogovectors.net_.png" alt="Postman" height="50" />
+<img style="margin: 10px" src="https://assets.getpostman.com/common-share/postman-logo-stacked.svg" alt="Postman" height="50" />
 
 </div>
 </td></tr></table>  
