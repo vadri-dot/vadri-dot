@@ -7,7 +7,7 @@
 
 <div align="center">I'm Adrian, a full-stack freelance developer 👨‍💻 🚀</div> 
 <br/> 
-- 🔭 I’m currently working on Skills - ❓ Ask me about anything related to MERN stack and related technologies 
+- 🔭 I’m currently working on Skills
 <br/> 
 <br/> 
 <h1>My Skill Set 👩‍💻</h1> 
