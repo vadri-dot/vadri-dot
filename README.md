@@ -21,7 +21,7 @@
 
 ## My Skill Set 👩‍💻
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%" ustify-content: center;>
 
 
 
@@ -68,7 +68,7 @@
 
 ### DevOps  
 
-<div justify-content: center;>  
+<div align="center">  
 <!-- Docker -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 
