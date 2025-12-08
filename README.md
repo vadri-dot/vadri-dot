@@ -21,71 +21,64 @@
 
 ## My Skill Set 👩‍💻
 
-<table><tr><td valign="top" width="33%" align="center">
+<table>
+  <tr>
+    <td valign="top" width="33%" align="center">
 
+      ### Frontend  
+      <div align="center">  
+        <!--React-->
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 
+        <!--Angular-->
+        <img style="margin: 10px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="50" />
+      </div>
 
-### Frontend  
-   
-<div align="center">  
+    </td>
+    <td valign="top" width="33%" align="center">
 
- <!--React-->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+      ### Backend  
+      <div align="center">  
+        <!--MongoDB-->
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 
-<!--Angular-->
-<img style="margin: 10px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="50" />
+        <!--Node.JS-->
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
 
-</div>
+        <!--Express.js-->
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 
-</td><td valign="top" width="33%">
+        <!--AWS-->
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
 
+        <!--SQL Server-->
+        <img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" alt="SQL Server" height="50" />
+      </div>
 
+    </td>
+    <td valign="top" width="33%" align="center">
 
-### Backend
-   
-<div align="center">  
+      ### DevOps  
+      <div align="center">  
+        <!-- Docker -->
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 
-<!--MongoDB-->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+        <!-- Git -->
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 
-<!--Node.JS-->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> 
+        <!-- GitHub Actions -->
+        <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" height="50" />
 
-<!--Express.js-->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+        <!-- AWS (DevOps tools) -->
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
 
-<!--AWS-->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+        <!--Postman-->
+        <img style="margin: 10px" src="https://assets.getpostman.com/common-share/postman-logo-stacked.svg" alt="Postman" height="50" />
+      </div>
 
-<!--SQL Server-->
-<img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" alt="SQL Server" height="50" />
-
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-
-<div align="center">  
-<!-- Docker -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-
-<!-- Git -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-
-<!-- GitHub Actions -->
-<img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" height="50" />
-
-<!-- AWS (DevOps tools) -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-
-<!--Postman-->
-<img style="margin: 10px" src="https://assets.getpostman.com/common-share/postman-logo-stacked.svg" alt="Postman" height="50" />
-
-</div>
-</td></tr></table>  
+    </td>
+  </tr>
+</table> 
 <br/>  
 <br/>
 <div align="center">
