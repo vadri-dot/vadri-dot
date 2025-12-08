@@ -68,7 +68,7 @@
 
 ### DevOps  
 
-<div align-items: center;>  
+<div justify-content: center;>  
 <!-- Docker -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 
